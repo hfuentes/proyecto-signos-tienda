@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { LinksService } from 'src/app/services/links.service';
-import { Link } from 'src/app/domain/link';
+import { LinksService } from 'client/app/services/links.service';
+import { Link } from 'client/app/domain/link';
 
 @Component({
   selector: 'app-footer',
